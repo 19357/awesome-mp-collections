@@ -1,3 +1,4 @@
-# 小程序教程参考
+# 小程序教程集合
+简单、优质
 
-[链接直达](https://19357.github.io/awesome-mp-collections/#/)
+[传送门](https://19357.github.io/awesome-mp-collections/#/)
